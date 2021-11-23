@@ -1,4 +1,7 @@
 # To add an gif to a repository, you must have the link to the gif!
+- To make an image a link you can put it in your repository and then use the link from the webaddress
+- Like so <img src="https://github.com/New-UCCS/Tutorials-Important/blob/main/webaddress.PNG"/>
+
 #### You can then do:
 ``` ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/gifname.gif?raw=true)```
 
